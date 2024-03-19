@@ -26,8 +26,8 @@ aiming to improve early detection and access to care, especially in rural areas.
     - A great accuracy and AUC score would be above 70%, or .70
 
 ## Software Used
-- Programming Tools: Python, Pandas, Tensorflow, Keras, scikit-learn, and OpenCV
-- Data Visualization with ROCs and AUCs: Matplotlib and Seaborn
+- <strong>Programming Tools</strong>: Python, Pandas, Tensorflow, Keras, scikit-learn, and OpenCV
+- <strong>Data Visualization with ROCs and AUCs</strong>: Matplotlib and Seaborn
 
 ## Dataset
 This project uses the ISIC skin cancer dataset consisting of approximately 10,000 images along with metadata for training and testing the ML models.
