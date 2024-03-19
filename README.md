@@ -12,7 +12,7 @@ in order to accurately detect skin cancer among patients, by training it with hu
 <hr />
 
 ## Project Presentation
-The full description of the project presentation, including background, approach, hypotheses, procedures, and in depth results can be found by viewing this ![presentation](https://github.com/kidskoding/skin-cancer-detection/blob/master/LICENSE)
+The full description of the project presentation, including background, approach, hypotheses, procedures, and in depth results can be found by viewing this ![presentation]([https://github.com/kidskoding/skin-cancer-detection/blob/master/LICENSE](https://github.com/kidskoding/skin-cancer-detection/blob/master/SEFH%202022%20-%20Skin%20Cancer.pdf))
 
 ## Overview
 Skin cancer is a prevalent form of cancer, with over 9,000 daily diagnoses in the US alone. 
