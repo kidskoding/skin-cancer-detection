@@ -1,26 +1,26 @@
 # skin-cancer-detection
 
-<strong> This GitHub repository was the project I submitted for the 2022 Regeneron High School Science Fair. </strong>
+This GitHub repository was the project I submitted for the 2022 Regeneron High School Science Fair. </strong>
 
-<strong>PLEASE READ THE ADDITIONAL DOCUMENTATION ![here](https://www.github.com/kidskoding/skin-cancer-detection/README-docs.md).
-It will tell you how to run this GitHub repository!
+This project won an honorable mention medal at the district-level science fair competition, along with winning the NASA Jacobs Explorer Award at the city-level science fair competition.</strong>
 
-<hr />
+#### PLEASE READ THE ADDITIONAL DOCUMENTATION ![here](https://www.github.com/kidskoding/skin-cancer-detection/README-docs.md). It will tell you how to run this GitHub repository!
+
 
 ## Abstract
 
 Realizing that Skin Cancer was one of the most prominent forms of cancer in today's world, 
 I sought out to build a simple skin-care-detection software by utilizing advanced Machine Learning techniques, including TensorFlow and Keras, 
 in order to accurately detect skin cancer among patients, by training it with hundreds of thousands of skin cancer lesion images.
-<br /> <br />
-<strong>This project won an honorable mention medal at the district-level science fair competition, along with winning the NASA Jacobs Explorer Award at the city-level science fair competition.</strong>
 
 ## Project Presentation
-The full description of the project presentation, including background, approach, hypotheses, procedures, and in depth results can be found by viewing this ![presentation](https://github.com/kidskoding/skin-cancer-detection/blob/master/SEFH%202022%20-%20Skin%20Cancer.pdf)
+The full description of the project presentation, 
+including background, approach, hypotheses, procedures, 
+and in depth results can be found by viewing this ![presentation](https://github.com/kidskoding/skin-cancer-detection/blob/master/SEFH%202022%20-%20Skin%20Cancer.pdf)
 
 ## Overview
 Skin cancer is a prevalent form of cancer, with over 9,000 daily diagnoses in the US alone. 
-This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to predict skin cancer, 
+This project leverages Artificial Intelligence (AI) and Machine Learning (ML) to predict skin cancer in humans, 
 aiming to improve early detection and access to care, especially in rural areas. 
 
 ## Features
