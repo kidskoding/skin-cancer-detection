@@ -4,7 +4,7 @@ This GitHub repository was the project I submitted for the 2022 Regeneron High S
 
 This project won an honorable mention medal at the district-level science fair competition, along with winning the NASA Jacobs Explorer Award at the city-level science fair competition.</strong>
 
-#### PLEASE READ THE ADDITIONAL DOCUMENTATION ![here](https://www.github.com/kidskoding/skin-cancer-detection/README-docs.md). It will tell you how to run this GitHub repository!
+#### PLEASE READ THE ADDITIONAL DOCUMENTATION ![here]([https://www.github.com/kidskoding/skin-cancer-detection/README-docs.md](https://github.com/kidskoding/skin-cancer-detection/blob/master/README-docs.md)). It will tell you how to run this GitHub repository!
 
 
 ## Abstract
